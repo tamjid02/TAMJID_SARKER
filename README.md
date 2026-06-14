@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tamjid Sarker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamjid02&label=Profile%20views&color=0e75b6&style=flat" alt="tamjid02" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamjid02" alt="tamjid02" /></a> </p>
+
 - 🔭 I’m currently working on **Ai-Based Donor prediction&Emergency Blood Allocation System**
 
 - 🌱 I’m currently learning **Machin learning,Artificial Intelligence,Security System,**
@@ -22,3 +26,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Tamjid Sarker"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Tamjid Sarker" /></a><a href="https://ko-fi.com/Tamjid Sarker"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Tamjid Sarker" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamjid02&show_icons=true&locale=en&layout=compact" alt="tamjid02" /></p>
